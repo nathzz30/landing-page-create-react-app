@@ -1,0 +1,40 @@
+.about {
+  margin: 5px 10px;
+  text-align: left;
+}
+
+.aboutTitle {
+  text-align: left;
+  color: #3d4449;
+  line-height: 8px;
+  letter-spacing: 0.3px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 8px;
+  font-weight: 900;
+  margin: 10px 0px 0px 0px;
+}
+
+.aboutText {
+  text-align: left;
+  letter-spacing: 0.3px;
+  line-height: 8px;
+  color: #7f888f;
+  font-family: "Open Sans", sans-serif;
+  font-size: 6px;
+  font-weight: normal;
+  margin: 15px 10px 1px 0px;
+}
+
+.sub {
+  margin-top: 3px;
+  background-color: #f56a6a;
+  border-color: #f56a6a;
+  width: 50px;
+  display: flex;
+  justify-content: flex-start;
+  position: absolute;
+  margin-bottom: 8px;
+  content: "";
+  border-style: solid;
+  border-width: 0.5px;
+}

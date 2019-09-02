@@ -1,0 +1,19 @@
+.copyright {
+  color: #9fa3a6;
+  font-size: 6px;
+}
+
+.dotted {
+  border-bottom: 0.6px dotted #999;
+  text-decoration: none;
+  color: #9fa3a6;
+}
+
+.dotted:hover {
+  color: #f56a6a;
+}
+
+.copyContainer {
+  margin: 8px 5px 8px 5px;
+  width: 80%;
+}

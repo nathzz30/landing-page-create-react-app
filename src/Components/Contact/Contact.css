@@ -1,0 +1,26 @@
+.info {
+  display: inline-block;
+  color: #7f888f;
+  text-decoration: none;
+  font-size: 5px;
+  margin: 2px 1px;
+  position: relative;
+
+  width: 65%;
+}
+
+.container > i {
+  display: inline-block;
+  color: #f56a6a;
+  font-size: 6px;
+  padding: 1px;
+  margin: 0.5px 2px 0.5px 0px;
+}
+
+.container {
+  display: inline-block;
+  margin: 1px 1px;
+  padding: 1px 1px;
+  width: 80%;
+  text-align: left;
+}
